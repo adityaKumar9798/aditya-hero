@@ -1,3 +1,3 @@
 # aditya-hero
 this is my first  repository
-author- aditya kumar
+author- aditya kumar (portfolio)
